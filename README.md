@@ -51,7 +51,7 @@ This project is a Streamlit application that allows users to ask questions about
 
 ## Screenshots
 
-![Llama Model Q&A Screenshot]([screenshot.png](https://github.com/Chandrashekhar569/Llama_doc_QA/blob/main/Screenshot.png))
+![Llama Model Q&A Screenshot](Screenshot.png)
 
 ## Author
 
